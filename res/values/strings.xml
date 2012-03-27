@@ -6,5 +6,11 @@
     <string name="take_show">拍照</string>
     <string name="local_album">本地相册</string>
     <string name="network_album">网络相册</string>
-
+    <string name="no_found">么有找到照片</string>
+	<string name="btn_step_save">保存效果</string>
+	<string name="save">保存图片</string>
+	<string name="cancel">取消</string>
+	<string name="image_edit">裁剪</string>
+	<string name="image_tonecolor">调色</string>
+	<string name="imgae_frame">边框</string>
 </resources>
